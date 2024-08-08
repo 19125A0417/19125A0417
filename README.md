@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 {hello i got your idea}
+"thanh you for helping me"
+"tq tq"
 
 <!---
 19125A0417/19125A0417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
